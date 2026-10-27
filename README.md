@@ -4,7 +4,7 @@ An AI-powered attendance management system that automates attendance tracking us
 
 ## Live Demo
 
-[https://a-2-created-by-dharamveer.streamlit.app]
+https://a-2-created-by-dharamveer.streamlit.app
 
 ---
 
